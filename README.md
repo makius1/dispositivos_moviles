@@ -1,14 +1,14 @@
 # 📱 Diseño de Software para Equipos Móviles (UX/UI)
 
-Bienvenido al repositorio central del curso de Diseño de Experiencia de Usuario (UX) e Interfaces (UI) para dispositivos móviles. 
+Bienvenido mi repositorio central con el resumen del curso de Diseño de Experiencia de Usuario (UX) e Interfaces (UI) para dispositivos móviles. 
 
-Este material documenta el ciclo de vida completo en la creación de un producto digital: desde la investigación inicial y la estructuración de la arquitectura de la información, hasta el diseño visual, la integración de métricas, inteligencia artificial y los modelos de negocio necesarios para publicar una aplicación viable en el mercado.
+Este material documenta los resumenes de la informacion bajo la clase completa en la creación de un producto digital: desde la investigación inicial y la estructuración de la arquitectura de la información, hasta el diseño visual, la integración de métricas, inteligencia artificial y los modelos de negocio necesarios para publicar una aplicación viable en el mercado.
 
 ---
 
 ## 📂 Estructura del Repositorio
 
-El proyecto está organizado en 20 sesiones secuenciales, abarcando desde los fundamentos teóricos hasta el proyecto integrador. Cada carpeta contiene su propia documentación detallada.
+El repositorio está organizado en 20 sesiones secuenciales, abarcando desde los fundamentos teóricos hasta el proyecto integrador. Cada carpeta contiene su RESUMEN bajo videos o informacion relacionada a la clase.
 
 ```text
 dispositivos_moviles/
